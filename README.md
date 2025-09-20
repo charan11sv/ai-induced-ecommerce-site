@@ -1,4 +1,4 @@
-# 🛍 AI-Powered Multi-Modal Product Search  
+#  AI-Powered Multi-Modal Product Search  
 
 ##  Project Overview  
 This project aims to build an **AI-driven product discovery platform** that allows users to search for products in a **human-like, intuitive way**. Instead of relying only on traditional keyword search, the system supports:  
