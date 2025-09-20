@@ -66,17 +66,10 @@ At the start, the project was designed to include the following phases:
 
 ##  Upcoming Updates  
 
-### **Near-Term**  
 -  **Fully Functional UI** (interactive product browsing & hybrid search).  
 -  **App Deployment** (cloud hosting & backend integration).  
 -  **Search Optimization** (improved embeddings, faster query handling).  
 -  **Enhanced Navigation** (filters, categories, personalization).  
-
-### **Long-Term**  
--  **Personalized Recommendations** (user history, mood/context awareness).  
--  **Analytics Dashboard** (track queries, trends, inventory gaps).  
--  **E-commerce Integration** (direct purchase flow from search results).  
--  **Multi-language & Cross-Region Support**.  
 
 ---
 
